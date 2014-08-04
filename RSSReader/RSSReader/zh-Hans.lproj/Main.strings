@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "编辑"; ObjectID = "2eK-Lw-99O"; */
+"2eK-Lw-99O.normalTitle" = "编辑";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "DQp-xi-CWx"; */
+"DQp-xi-CWx.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "请输入要订阅的地址"; ObjectID = "PbL-qq-31L"; */
+"PbL-qq-31L.text" = "请输入要订阅的地址";
+
+/* Class = "IBUIButton"; normalTitle = "完成"; ObjectID = "PeV-VJ-dFq"; */
+"PeV-VJ-dFq.normalTitle" = "完成";
+
+/* Class = "IBUIButton"; normalTitle = "取消"; ObjectID = "Pq2-FS-WaH"; */
+"Pq2-FS-WaH.normalTitle" = "取消";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Zg1-CV-tWt"; */
+"Zg1-CV-tWt.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "回退"; ObjectID = "dDc-bi-iMV"; */
+"dDc-bi-iMV.normalTitle" = "回退";

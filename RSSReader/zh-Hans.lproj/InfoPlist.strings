@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  RSSReader
+
+  Created by wan bin on 8/3/14.
+  Copyright (c) 2014 wan bin. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "博客阅读";
